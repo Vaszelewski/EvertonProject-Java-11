@@ -14,7 +14,7 @@ PoC Java using the following technologies:
 7. Postgresql
 8. Heroku
 
-This project is a Online Shop system, with the classes:
+This project is an Online Shop system, with the classes:
 1. Order
 2. Payment
 3. Product
