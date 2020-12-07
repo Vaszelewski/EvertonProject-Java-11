@@ -1,5 +1,8 @@
 # EvertonProject-Java-11
 
+IDE: SPRING TOOL SUITE
+PROGRAMMING LANGUAGE: JAVA
+
 PoC Java using the following technologies:
 1. Spring Boot
 2. JPA
