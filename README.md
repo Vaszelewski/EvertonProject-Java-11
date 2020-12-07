@@ -11,10 +11,10 @@ PoC Java using the following technologies:
 8. Heroku
 
 This project is a Online Shop system, with the classes:
-a. Order
-b. Payment
-c. Product
-d. User
+1. Order
+2. Payment
+3. Product
+4. User
 and more
 
 This app does not have user interface.
