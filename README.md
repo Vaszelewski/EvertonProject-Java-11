@@ -12,8 +12,10 @@ PoC Java using the following technologies:
 5. Banco H2
 6. Postman
 
-It was deployed on: 
+It was deployed on:
+
 7. Postgresql
+
 8. Heroku
 
 This project is an Online Shop system, with the classes:
